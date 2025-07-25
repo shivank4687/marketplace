@@ -1,0 +1,7 @@
+
+php artisan tinker
+\Webkul\Category\Models\Category::fixTree();
+php artisan cache:clear
+php artisan config:clear
+php artisan view:clear
+php artisan route:clear

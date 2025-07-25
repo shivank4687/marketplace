@@ -1,0 +1,44 @@
+name,slug,parent_id,position,status,description,meta_title,meta_description,meta_keywords,locale
+Salsas artesanales,salsas-artesanales,4,1,1,,,,,es
+Conservas y mermeladas,conservas-mermeladas,4,2,1,,,,,es
+Dulces típicos (cocada, jamoncillo…),dulces-tipicos,4,3,1,,,,,es
+Café de altura,cafe-altura,4,4,1,,,,,es
+Chocolate artesanal,chocolate-artesanal,4,5,1,,,,,es
+Miel y derivados de abeja melipona,miel-abeja-melipona,4,6,1,,,,,es
+Mezcal tradicional,mezcal-tradicional,4,7,1,,,,,es
+Tequila artesanal,tequila-artesanal,4,8,1,,,,,es
+Plata de Taxco,plata-taxco,5,1,1,,,,,es
+Filigrana de oro,filigrana-oro,5,2,1,,,,,es
+Chaquira huichol,chaquira-huichol,5,3,1,,,,,es
+Onix y obsidiana,onix-obsidiana,5,4,1,,,,,es
+Esculturas decorativas,esculturas-obsidiana,6,1,1,,,,,es
+Cuchillos ceremoniales,cuchillos-ceremoniales,6,2,1,,,,,es
+Espejos / Obeliscos,espejos-obeliscos,6,3,1,,,,,es
+Joyería de obsidiana,joyeria-obsidiana,6,4,1,,,,,es
+Canastos (canastas frutas, picnic),canastos-carrizo,7,1,1,,,,,es
+Petates y tapetes,petates-tapetes,7,2,1,,,,,es
+Utensilios de cocina (tortilleros, cucharas),utensilios-cocina-carrizo,7,3,1,,,,,es
+Muebles pequeños (sillas, taburetes),muebles-pequenos-carrizo,7,4,1,,,,,es
+Figuras de madera grandes,figuras-madera-alebrije,8,1,1,,,,,es
+Miniaturas coleccionables,miniaturas-alebrije,8,2,1,,,,,es
+Alebrijes con luz LED,alebrijes-led,8,3,1,,,,,es
+Joyería estilo alebrije,joyeria-alebrije,8,4,1,,,,,es
+Telar de cintura (rebosos, bufandas),telar-cintura,9,1,1,,,,,es
+Bordados Tenango,bordados-tenango,9,2,1,,,,,es
+Algodón orgánico (playeras, blusas),algodon-organico,9,3,1,,,,,es
+Lana tejida (chales, cobijas),lana-tejida,9,4,1,,,,,es
+Barro negro de Oaxaca,barro-negro-oaxaca,10,1,1,,,,,es
+Talavera poblana,talavera-poblana,10,2,1,,,,,es
+Barro bruñido de Michoacán,barro-brunido-michoacan,10,3,1,,,,,es
+Loza utilitaria (platos, tazas),loza-utilitaria,10,4,1,,,,,es
+Muebles rústicos (mesas, bancos),muebles-rusticos,11,1,1,,,,,es
+Utensilios (cucharas, rodillos),utensilios-madera,11,2,1,,,,,es
+Juguetes de madera,juguetes-madera,11,3,1,,,,,es
+Máscaras tradicionales,mascaras-tradicionales,11,4,1,,,,,es
+Cuadros de chaquira,cuadros-chaquira,12,1,1,,,,,es
+Cráneos decorativos,craneos-decorativos,12,2,1,,,,,es
+Instrumentos intervenidos,instrumentos-intervenidos,12,3,1,,,,,es
+Velas aromáticas con cera de abeja,velas-aromaticas,13,1,1,,,,,es
+Macetas barro vidriado,macetas-barro,13,2,1,,,,,es
+Espejos con marco de talavera,espejos-talavera,13,3,1,,,,,es
+Tapetes de lana teñida,tapetes-lana,13,4,1,,,,,es 
