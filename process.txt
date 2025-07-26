@@ -5,3 +5,46 @@ php artisan cache:clear
 php artisan config:clear
 php artisan view:clear
 php artisan route:clear
+
+ssh root@199.19.74.167
+WEF45rF$#d33444wd
+OS: ubuntu_server_24.04_64-bit
+
+scp ARTEMANIA.sql root@199.19.74.167:/home/root/
+scp ARTEMANIA.sql root@199.19.74.167:/root/
+CREATE DATABASE ARTEMANIA;
+
+mysql -u root -p ARTEMANIA < ARTEMANIA.sql
+php artisan serve --host=0.0.0.0 --port=8000
+
+CREATE USER 'b_user'@'localhost' IDENTIFIED BY 'b_user1234';
+GRANT ALL PRIVILEGES ON bagisto.* TO 'b_user'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+
+
+CREATE DATABASE ARTEMANIA;
+CREATE USER 'a_user'@'localhost' IDENTIFIED BY 'a_user@1234';
+GRANT ALL PRIVILEGES ON ARTEMANIA.* TO 'a_user'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+
+mysql -u a_user -p
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Root@1234';
+FLUSH PRIVILEGES;
+EXIT;
+
+
+
+nohup php artisan serve --host=0.0.0.0 --port=8000 > laravel.log 2>&1 &
+ps aux | grep artisan
+kill pid
+
+Webkul\DataTransfer\Helpers\Importers\Category\Importer] does not exist
+
+
+packages/Webkul/DataTransfer/src/Helpers/Importers/category/Importer.php
+
+
+lass [Webkul\DataTransfer\Helpers\Importers\Category\Importer] does not exist.
